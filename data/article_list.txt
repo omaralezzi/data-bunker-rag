@@ -1,0 +1,16 @@
+water|Water
+water|Drinking_water
+water|Water_purification
+water|Portable_water_purification
+medical|First_aid
+medical|Bleeding
+medical|Hemorrhage
+medical|Bandage
+power|Electricity
+power|Electric_generator
+power|Solar_power
+power|Battery
+food|Food_preservation
+food|Canned_food
+prepping|Emergency_management
+prepping|Survival_skills

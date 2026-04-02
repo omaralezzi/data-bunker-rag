@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Runtime / cache
+.pytest_cache/
+.mypy_cache/
+
+# Heavy or local-only data
+data/chats/
+data/*.sqlite
+data/*.db
+
+# Optional: comment this out if you WANT article lists in git
+# data/*_articles.txt
+
+# Local models / binaries
+models/
+*.bin
+*.gguf
+*.safetensors
+
+# Archives
+*.tar
+*.tar.gz
+*.tar.zst
+*.zip
